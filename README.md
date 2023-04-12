@@ -1,19 +1,16 @@
-### Hi there 👋
 
-<!--
-**RaquelSoaresDeveloper/RaquelSoaresDeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=4000&pause=500&color=F765BE&center=true&vCenter=true&width=1000&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Raquel;Sou+desenvolvedora+Full-Stack%2FFront-end;)](https://git.io/typing-svg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Trabalho como Desenvolvedora Front-end
+- 🌱 Estou estudando javascript e Reactjs
+- 😄 Pronomes: Ela/Dela 
+##
+<img alt="JS" title="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/> <img alt="Typescript" title="Typescript" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png"> <img alt="Git" title="Git" width="40px" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> <img alt="React" title="React" width="40px" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> <img alt="html5" title="html5" width="40px" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" /> <img alt="CSS3" title="CSS3" width="40px" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RaquelSoaresDeveloper&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaquelSoaresDeveloper&layout=compact&show_Ícons=true&theme=radical)](https://github.com/RaquelSoaresDeveloper/github-readme-stats)
+
+
+
+
