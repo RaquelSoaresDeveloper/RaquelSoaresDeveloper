@@ -8,8 +8,6 @@
 ##
 <img alt="JS" title="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/> <img alt="Typescript" title="Typescript" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png"> <img alt="Git" title="Git" width="40px" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> <img alt="React" title="React" width="40px" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> <img alt="html5" title="html5" width="40px" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" /> <img alt="CSS3" title="CSS3" width="40px" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RaquelSoaresDeveloper&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaquelSoaresDeveloper&layout=compact&show_Ícons=true&theme=radical)](https://github.com/RaquelSoaresDeveloper/github-readme-stats)
 
 
 
