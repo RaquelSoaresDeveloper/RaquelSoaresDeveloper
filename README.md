@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=4000&pause=500&color=F765BE&center=true&vCenter=true&width=1000&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Raquel;Sou+desenvolvedora+Full-Stack)](https://git.io/typing-svg)
 
-- 🔭 Trabalho como Desenvolvedora Front-end
+- 🔭 Trabalho como Desenvolvedora 
 - 🌱 Estou estudando javascript e Reactjs
 - 😄 Pronomes: Ela/Dela 
 ##
